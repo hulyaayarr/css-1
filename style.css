@@ -1,0 +1,26 @@
+body {
+    background-color: #fff7f1;
+  }
+  .big-heading {
+    color: #e78895;
+    justify-content: center;
+    display: flex;
+  }
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+  .nav-items {
+    padding: 10px;
+    color: #ff9934;
+  }
+  .centered-list {
+    text-align: center;
+    list-style-position: inside;
+  }
+  .color-title {
+    color: #51b0a6;
+  }
+  .color-small-title {
+    color: #205751;
+  }
